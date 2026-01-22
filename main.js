@@ -304,7 +304,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 159,
             category: "milkshakes",
             desc: "Creamy chocolate thick shake.",
-            img: "images/chocolate-shake.png"
+            img: "chocolate-shake.png"
         },
         {
             id: 8,
@@ -338,7 +338,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 119,
             category: "desserts",
             desc: "Rich chocolate cake with dusting.",
-            img: "images/chocolate-cake.png"
+            img: "chocolate-cake.png"
         },
         {
             id: 12,
