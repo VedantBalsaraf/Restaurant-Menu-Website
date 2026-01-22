@@ -254,7 +254,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 269,
             category: "non-veg",
             desc: "Our signature flame-grilled beef patty.",
-            img: "images/whopper.png"
+            img: "whopper.png"
         },
         {
             id: 2,
