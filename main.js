@@ -262,7 +262,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 329,
             category: "non-veg",
             desc: "Two flame-grilled patties with crispy bacon.",
-            img: "images/whopper.png"
+            img: "whopper.png"
         },
         {
             id: 3,
@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 189,
             category: "non-veg",
             desc: "Crispy white meat chicken in a fun shape.",
-            img: "images/chicken-fries.png"
+            img: "chicken-fries.png"
         },
         // Burgers (Veg)
         {
@@ -279,7 +279,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 219,
             category: "veg",
             desc: "Flame-grilled plant-based patty.",
-            img: "images/veggie-whopper.png"
+            img: "veggie-whopper.png"
         },
         {
             id: 5,
@@ -287,7 +287,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 99,
             category: "veg",
             desc: "Crispy potato patty with fresh lettuce.",
-            img: "images/crispy-veg.png"
+            img: "crispy-veg.png"
         },
         {
             id: 6,
@@ -295,7 +295,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 249,
             category: "veg",
             desc: "Thick paneer patty with spicy mayo.",
-            img: "images/paneer-royale.png"
+            img: "paneer-royale.png"
         },
         // Milkshakes
         {
@@ -312,7 +312,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 159,
             category: "milkshakes",
             desc: "Fresh strawberry flavor.",
-            img: "images/strawberry-shake.png"
+            img: "strawberry-shake.png"
         },
         // Coffee
         {
@@ -321,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 129,
             category: "coffee",
             desc: "Freshly brewed espresso with steamed milk.",
-            img: "images/cappuccino.png"
+            img: "cappuccino.png"
         },
         {
             id: 10,
@@ -329,7 +329,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 149,
             category: "coffee",
             desc: "Espresso with cold milk and ice.",
-            img: "images/cappuccino.png"
+            img: "cappuccino.png"
         },
         // Desserts
         {
